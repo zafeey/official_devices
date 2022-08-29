@@ -239,6 +239,14 @@
             "XDA": "https://forum.xda-developers.com/m/ragy747.9235713/",
             "role": "surya Maintainer",
             "tagline": "Tendo bansho"
+        },
+        {
+            "name": "Fey",
+            "github": "zafeey",
+            "telegram": "Fey",
+            "XDA": "",
+            "role": "laurel_sprout Maintainer",
+            "tagline": "Is it a food?"
         }
     ]
 }

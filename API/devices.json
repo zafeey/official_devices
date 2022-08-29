@@ -242,6 +242,15 @@
             "maintainer_name": "Ragy",
             "frame": null,
             "active": true
+        },
+        {
+            "codename": "laurel_sprout",
+            "codename_alt": "laurel_sprout",
+            "vendor": "Xiaomi",
+            "model": "Mi A3",
+            "maintainer_name": "Fey",
+            "frame": null,
+            "active": true
         }
     ]
 }

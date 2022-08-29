@@ -1,0 +1,21 @@
+{
+    "maintainer": [
+        {
+            "display_name": "Fey",
+            "telegram": "https://t.me/Fey",
+            "github": "https://github.com/zafeey"
+        }
+    ],
+    "updater": true,
+    "beta": false,
+    "version": "twelve",
+    "release": "monthly",
+    "device_display_name": "Xiaomi Mi A3",
+    "device_display_codename": "laurel_sprout",
+    "public_download": "",
+    "last_updated": "",
+    "private_download_tag": "",
+    "active": true,
+    "customRecoveryRequired": true,
+    "xda": ""
+}
