@@ -1,13 +1,13 @@
 {
     "error": false,
     "version": "twelve",
-    "filename": "",
-    "datetime": ,
-    "size": ,
-    "url": "",
+    "filename": "PixelOS_laurel_sprout-12.1-20220830-0357.zip",
+    "datetime": 1661831824,
+    "size": 1661831831,
+    "url": "https://sourceforge.net/projects/zafeey-laurel-sprout/files/OTA/PixelOS_laurel_sprout-12.1-20220830-0357.zip/download",
     "github_releases_url": "",
-    "filehash": "",
-    "id": "",
+    "filehash": "8e3f6e95da98dc70d131be87844013a8",
+    "id": "8e3f6e95da98dc70d131be87844013a8",
     "maintainers": [
         {
             "main_maintainer": false,

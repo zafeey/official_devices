@@ -12,9 +12,9 @@
     "release": "monthly",
     "device_display_name": "Xiaomi Mi A3",
     "device_display_codename": "laurel_sprout",
-    "public_download": "",
-    "last_updated": "",
-    "private_download_tag": "",
+    "public_download": "https://sourceforge.net/projects/zafeey-laurel-sprout/files/OTA/",
+    "last_updated": "29 August 2022",
+    "private_download_tag": "laurel_sprout_20220830_0357",
     "active": true,
     "customRecoveryRequired": true,
     "xda": ""
